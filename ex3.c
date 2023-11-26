@@ -12,7 +12,7 @@ void invert(int *a, int size) {
 }
 
 int main() {
-    int array[SIZE] = { 20, 30, 40, 100, 300 };
+    int array[SIZE] = { 20, 30, 40, 100, 300, 500 };
 
     invert(array, 5);
     for (int i = 0; i < SIZE; i++) {

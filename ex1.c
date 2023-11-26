@@ -4,10 +4,10 @@
 int findValue(int*, int);
 
 int findValue(int* array, int search) {
-    for (int i = 0; i < SIZE; i++) {
+    for (int i = 0; i < 5; i++) {
         if (*(array + i) == search) {
-            return search;
-        } 
+            return i;
+        }
     }
 
     return -1;
@@ -15,6 +15,6 @@ int findValue(int* array, int search) {
 
 int main() {
     int array[SIZE] = { 20, 30, 40, 100, 300 };
-    printf("%d", findValue(array, 42));
+    printf("%d", findValue(array, 30));
     return 0;
 }

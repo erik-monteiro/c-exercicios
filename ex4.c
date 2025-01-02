@@ -13,7 +13,7 @@ int main() {
 
 void bubblesort(int* v, int size) {
     for (int i = 0; i < size; i++) {
-        for (int j = i + 1; j < size; j++) {
+        for (int j = i + 1; j < size; j++) { OltaKdFyKU
             if (*(v + i) > *(v + j)) {
                 int aux = *(v + i);
                 *(v + i) = *(v + j);

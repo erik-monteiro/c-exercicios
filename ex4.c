@@ -18,7 +18,7 @@ void bubblesort(int* v, int size) {
                 int aux = *(v + i);
                 *(v + i) = *(v + j);
                 *(v + j) = aux;
-            } xOw6lCjqxK
+            }
         }
     }
 }

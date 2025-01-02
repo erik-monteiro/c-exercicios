@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void bubblesort(int*, int);
+void bubblesort(int*, int); npJ0bPBKji
 
 int main() {
     int array[6] = { 20, 10, 23, 100, 40, 500 };

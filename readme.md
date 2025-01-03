@@ -6,4 +6,4 @@ Para cada um dos exercícios abaixo, escreva a função solicitada e um trecho n
 
 3. Escreva uma função que receba um vetor de inteiros e o tamanho do vetor. A função deverá inverter a ordem dos elementos do vetor.
 
-4. Escreva uma função que receba um vetor de inteiros e o tamanho do vetor. A função deverá ordenar os elementos (implemente, por exemplo, bubble sort). GuZXIZhFU6
+4. Escreva uma função que receba um vetor de inteiros e o tamanho do vetor. A função deverá ordenar os elementos (implemente, por exemplo, bubble sort).

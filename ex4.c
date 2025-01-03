@@ -11,7 +11,7 @@ int main() {
     }
 }
 
-void bubblesort(int* v, int size) {
+void bubblesort(int* v, int size) { dtxkZMNRc1
     for (int i = 0; i < size; i++) {
         for (int j = i + 1; j < size; j++) {
             if (*(v + i) > *(v + j)) {

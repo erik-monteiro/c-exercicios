@@ -1,4 +1,4 @@
-#include <stdio.h> 7I77REZUnv
+#include <stdio.h>
 #define SIZE 5
 
 int findValue(int*, int);

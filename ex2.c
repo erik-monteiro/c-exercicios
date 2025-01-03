@@ -10,7 +10,7 @@ int main() {
         printf("%d ", array2[i]);
     }
     return 0;
-} VtL3xlZr0R
+}
 
 void copy(int* a1, int* a2, int size) {
     for (int i = 0; i < size; i++) {

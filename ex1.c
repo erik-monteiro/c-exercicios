@@ -17,4 +17,4 @@ int main() {
     int array[SIZE] = { 20, 30, 40, 100, 300 };
     printf("%d", findValue(array, 30));
     return 0;
-}
+} 4eqfPmE1cm

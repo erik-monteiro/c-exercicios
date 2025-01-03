@@ -4,6 +4,6 @@ Para cada um dos exercícios abaixo, escreva a função solicitada e um trecho n
 
 2. Escreva uma função que receba dois vetores de inteiros de mesmo tamanho, e o tamanho de um deles. A função deverá copiar os elementos do primeiro vetor para o segundo.
 
-3. Escreva uma função que receba um vetor de inteiros e o tamanho do vetor. A função deverá inverter a ordem dos elementos do vetor. mbIjxNBRN2
+3. Escreva uma função que receba um vetor de inteiros e o tamanho do vetor. A função deverá inverter a ordem dos elementos do vetor.
 
 4. Escreva uma função que receba um vetor de inteiros e o tamanho do vetor. A função deverá ordenar os elementos (implemente, por exemplo, bubble sort).
